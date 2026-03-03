@@ -15,7 +15,7 @@ export default function Dashboard() {
         </p>
       </header>
 
-      <main className="max-w-4xl mx-auto px-6 py-16">
+      <main className="max-w-7xl mx-auto px-6 py-16">
 
         <Link href="/better-auth">
           <div className="cursor-pointer border border-[#d6d0c8] bg-white p-10 hover:shadow-md transition">
